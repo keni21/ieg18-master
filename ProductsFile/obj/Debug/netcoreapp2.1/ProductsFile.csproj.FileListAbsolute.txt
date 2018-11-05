@@ -1,0 +1,28 @@
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/bin/Debug/netcoreapp2.1/ProductsFile.deps.json
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/bin/Debug/netcoreapp2.1/ProductsFile.runtimeconfig.json
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/bin/Debug/netcoreapp2.1/ProductsFile.runtimeconfig.dev.json
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/bin/Debug/netcoreapp2.1/ProductsFile.dll
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/bin/Debug/netcoreapp2.1/ProductsFile.pdb
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.csproj.CoreCompileInputs.cache
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.RazorAssemblyInfo.cache
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.RazorAssemblyInfo.cs
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.AssemblyInfoInputs.cache
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.AssemblyInfo.cs
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.RazorTargetAssemblyInfo.cache
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.dll
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.pdb
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.csprojAssemblyReference.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/bin/Debug/netcoreapp2.1/ProductsFile.deps.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/bin/Debug/netcoreapp2.1/ProductsFile.runtimeconfig.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/bin/Debug/netcoreapp2.1/ProductsFile.runtimeconfig.dev.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/bin/Debug/netcoreapp2.1/ProductsFile.dll
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/bin/Debug/netcoreapp2.1/ProductsFile.pdb
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.csprojAssemblyReference.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.csproj.CoreCompileInputs.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.RazorAssemblyInfo.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.RazorAssemblyInfo.cs
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.AssemblyInfoInputs.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.AssemblyInfo.cs
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.RazorTargetAssemblyInfo.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.dll
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsFile/obj/Debug/netcoreapp2.1/ProductsFile.pdb

@@ -1,0 +1,5 @@
+C:\IEG2017\Handelsplattform\SolHandelsplattform\BlackFriday
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=BlackFriday
+--content-root=C:\IEG2017\Handelsplattform\SolHandelsplattform\BlackFriday
+--file=

@@ -1,0 +1,14 @@
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/bin/Debug/netcoreapp2.1/CurrencyWebhook.deps.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/bin/Debug/netcoreapp2.1/CurrencyWebhook.runtimeconfig.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/bin/Debug/netcoreapp2.1/CurrencyWebhook.runtimeconfig.dev.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/bin/Debug/netcoreapp2.1/CurrencyWebhook.dll
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/bin/Debug/netcoreapp2.1/CurrencyWebhook.pdb
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/obj/Debug/netcoreapp2.1/CurrencyWebhook.csprojAssemblyReference.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/obj/Debug/netcoreapp2.1/CurrencyWebhook.csproj.CoreCompileInputs.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/obj/Debug/netcoreapp2.1/CurrencyWebhook.RazorAssemblyInfo.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/obj/Debug/netcoreapp2.1/CurrencyWebhook.RazorAssemblyInfo.cs
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/obj/Debug/netcoreapp2.1/CurrencyWebhook.AssemblyInfoInputs.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/obj/Debug/netcoreapp2.1/CurrencyWebhook.AssemblyInfo.cs
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/obj/Debug/netcoreapp2.1/CurrencyWebhook.RazorTargetAssemblyInfo.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/obj/Debug/netcoreapp2.1/CurrencyWebhook.dll
+/Users/Flo/Desktop/SolHandelsplattform V.01/CurrencyWebhook/obj/Debug/netcoreapp2.1/CurrencyWebhook.pdb

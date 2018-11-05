@@ -1,0 +1,15 @@
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\bin\Release\netcoreapp2.1\GitHubWebhook.deps.json
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\bin\Release\netcoreapp2.1\GitHubWebhook.runtimeconfig.json
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\bin\Release\netcoreapp2.1\GitHubWebhook.runtimeconfig.dev.json
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\bin\Release\netcoreapp2.1\GitHubWebhook.dll
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\bin\Release\netcoreapp2.1\GitHubWebhook.pdb
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\obj\Release\netcoreapp2.1\GitHubWebhook.csprojAssemblyReference.cache
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\obj\Release\netcoreapp2.1\GitHubWebhook.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\obj\Release\netcoreapp2.1\GitHubWebhook.RazorAssemblyInfo.cache
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\obj\Release\netcoreapp2.1\GitHubWebhook.RazorAssemblyInfo.cs
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\obj\Release\netcoreapp2.1\GitHubWebhook.AssemblyInfoInputs.cache
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\obj\Release\netcoreapp2.1\GitHubWebhook.AssemblyInfo.cs
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\obj\Release\netcoreapp2.1\GitHubWebhook.RazorTargetAssemblyInfo.cache
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\obj\Release\netcoreapp2.1\GitHubWebhook.dll
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\obj\Release\netcoreapp2.1\GitHubWebhook.pdb
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\GitHubWebhook\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs

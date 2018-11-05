@@ -1,0 +1,14 @@
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/bin/Debug/netcoreapp2.1/GitHubWebhook.deps.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/bin/Debug/netcoreapp2.1/GitHubWebhook.runtimeconfig.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/bin/Debug/netcoreapp2.1/GitHubWebhook.runtimeconfig.dev.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/bin/Debug/netcoreapp2.1/GitHubWebhook.dll
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/bin/Debug/netcoreapp2.1/GitHubWebhook.pdb
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/obj/Debug/netcoreapp2.1/GitHubWebhook.csprojAssemblyReference.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/obj/Debug/netcoreapp2.1/GitHubWebhook.csproj.CoreCompileInputs.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/obj/Debug/netcoreapp2.1/GitHubWebhook.RazorAssemblyInfo.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/obj/Debug/netcoreapp2.1/GitHubWebhook.RazorAssemblyInfo.cs
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/obj/Debug/netcoreapp2.1/GitHubWebhook.AssemblyInfoInputs.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/obj/Debug/netcoreapp2.1/GitHubWebhook.AssemblyInfo.cs
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/obj/Debug/netcoreapp2.1/GitHubWebhook.RazorTargetAssemblyInfo.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/obj/Debug/netcoreapp2.1/GitHubWebhook.dll
+/Users/Flo/Desktop/SolHandelsplattform V.01/GitHubWebhook/obj/Debug/netcoreapp2.1/GitHubWebhook.pdb

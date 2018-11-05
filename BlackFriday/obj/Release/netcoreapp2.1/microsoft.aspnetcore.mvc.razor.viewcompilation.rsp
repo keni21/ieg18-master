@@ -1,0 +1,5 @@
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\BlackFriday
+--output-path=obj\Release\netcoreapp2.1\
+--application-name=BlackFriday
+--content-root=C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\BlackFriday
+--file=

@@ -1,0 +1,28 @@
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/bin/Debug/netcoreapp2.1/ProductsArray.deps.json
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/bin/Debug/netcoreapp2.1/ProductsArray.runtimeconfig.json
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/bin/Debug/netcoreapp2.1/ProductsArray.runtimeconfig.dev.json
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/bin/Debug/netcoreapp2.1/ProductsArray.dll
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/bin/Debug/netcoreapp2.1/ProductsArray.pdb
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.csprojAssemblyReference.cache
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.csproj.CoreCompileInputs.cache
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.RazorAssemblyInfo.cache
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.RazorAssemblyInfo.cs
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.AssemblyInfoInputs.cache
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.AssemblyInfo.cs
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.RazorTargetAssemblyInfo.cache
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.dll
+/Users/Flo/Google Drive/campus02/IEG/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.pdb
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/bin/Debug/netcoreapp2.1/ProductsArray.deps.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/bin/Debug/netcoreapp2.1/ProductsArray.runtimeconfig.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/bin/Debug/netcoreapp2.1/ProductsArray.runtimeconfig.dev.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/bin/Debug/netcoreapp2.1/ProductsArray.dll
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/bin/Debug/netcoreapp2.1/ProductsArray.pdb
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.csprojAssemblyReference.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.csproj.CoreCompileInputs.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.RazorAssemblyInfo.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.RazorAssemblyInfo.cs
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.AssemblyInfoInputs.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.AssemblyInfo.cs
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.RazorTargetAssemblyInfo.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.dll
+/Users/Flo/Desktop/SolHandelsplattform V.01/ProductsArray/obj/Debug/netcoreapp2.1/ProductsArray.pdb

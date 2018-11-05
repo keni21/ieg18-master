@@ -1,0 +1,15 @@
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\bin\Release\netcoreapp2.1\ProductsArray.deps.json
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\bin\Release\netcoreapp2.1\ProductsArray.runtimeconfig.json
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\bin\Release\netcoreapp2.1\ProductsArray.runtimeconfig.dev.json
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\bin\Release\netcoreapp2.1\ProductsArray.dll
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\bin\Release\netcoreapp2.1\ProductsArray.pdb
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\obj\Release\netcoreapp2.1\ProductsArray.csprojAssemblyReference.cache
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\obj\Release\netcoreapp2.1\ProductsArray.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\obj\Release\netcoreapp2.1\ProductsArray.RazorAssemblyInfo.cache
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\obj\Release\netcoreapp2.1\ProductsArray.RazorAssemblyInfo.cs
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\obj\Release\netcoreapp2.1\ProductsArray.AssemblyInfoInputs.cache
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\obj\Release\netcoreapp2.1\ProductsArray.AssemblyInfo.cs
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\obj\Release\netcoreapp2.1\ProductsArray.RazorTargetAssemblyInfo.cache
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\obj\Release\netcoreapp2.1\ProductsArray.dll
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\obj\Release\netcoreapp2.1\ProductsArray.pdb
+C:\Users\david\Documents\IEG2018\ieg18-master\ieg18-master\ProductsArray\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs

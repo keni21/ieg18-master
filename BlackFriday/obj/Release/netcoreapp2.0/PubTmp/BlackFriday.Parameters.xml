@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BlackFriday" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^/Users/Flo/Google\ Drive/campus02/IEG/SolHandelsplattform\ V\.01/BlackFriday/obj/Release/netcoreapp2\.0/PubTmp/Out/$" />
+  </parameter>
+</parameters>
