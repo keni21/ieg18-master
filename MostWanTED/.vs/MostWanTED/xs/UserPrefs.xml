@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E72CBD44-78F4-4A8E-8860-F25E6096FE5E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscoveryService/Controllers/RegisterController.cs">
+    <Files>
+      <File FileName="DiscoveryService/Controllers/RegisterController.cs" Line="57" Column="64" />
+      <File FileName="DataHandler/Startup.cs" Line="60" Column="35" />
+      <File FileName="DataSender/Startup.cs" Line="40" Column="42" />
+      <File FileName="DataReceiver/Controllers/ReceiverController.cs" Line="40" Column="1" />
+      <File FileName="DataReceiver/Startup.cs" Line="87" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Flo/Desktop/MostWanTED/DataReceiver/Controllers/ReceiverController.cs" relfile="DataReceiver/Controllers/ReceiverController.cs" line="56" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DataReceiver PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MostWanTED PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/bin/Debug/netcoreapp2.1/DiscoveryService.deps.json
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/bin/Debug/netcoreapp2.1/DiscoveryService.runtimeconfig.json
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/bin/Debug/netcoreapp2.1/DiscoveryService.runtimeconfig.dev.json
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/bin/Debug/netcoreapp2.1/DiscoveryService.dll
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/bin/Debug/netcoreapp2.1/DiscoveryService.pdb
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/obj/Debug/netcoreapp2.1/DiscoveryService.csprojAssemblyReference.cache
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/obj/Debug/netcoreapp2.1/DiscoveryService.csproj.CoreCompileInputs.cache
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/obj/Debug/netcoreapp2.1/DiscoveryService.RazorAssemblyInfo.cache
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/obj/Debug/netcoreapp2.1/DiscoveryService.RazorAssemblyInfo.cs
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/obj/Debug/netcoreapp2.1/DiscoveryService.AssemblyInfoInputs.cache
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/obj/Debug/netcoreapp2.1/DiscoveryService.AssemblyInfo.cs
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/obj/Debug/netcoreapp2.1/DiscoveryService.RazorTargetAssemblyInfo.cache
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/obj/Debug/netcoreapp2.1/DiscoveryService.dll
+/Users/Flo/Desktop/MostWanTED/DiscoveryService/obj/Debug/netcoreapp2.1/DiscoveryService.pdb

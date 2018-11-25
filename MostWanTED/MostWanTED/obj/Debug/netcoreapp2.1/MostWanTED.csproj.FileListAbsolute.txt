@@ -1,0 +1,14 @@
+/Users/Flo/Desktop/MostWanTED/MostWanTED/bin/Debug/netcoreapp2.1/MostWanTED.deps.json
+/Users/Flo/Desktop/MostWanTED/MostWanTED/bin/Debug/netcoreapp2.1/MostWanTED.runtimeconfig.json
+/Users/Flo/Desktop/MostWanTED/MostWanTED/bin/Debug/netcoreapp2.1/MostWanTED.runtimeconfig.dev.json
+/Users/Flo/Desktop/MostWanTED/MostWanTED/bin/Debug/netcoreapp2.1/MostWanTED.dll
+/Users/Flo/Desktop/MostWanTED/MostWanTED/bin/Debug/netcoreapp2.1/MostWanTED.pdb
+/Users/Flo/Desktop/MostWanTED/MostWanTED/obj/Debug/netcoreapp2.1/MostWanTED.csprojAssemblyReference.cache
+/Users/Flo/Desktop/MostWanTED/MostWanTED/obj/Debug/netcoreapp2.1/MostWanTED.csproj.CoreCompileInputs.cache
+/Users/Flo/Desktop/MostWanTED/MostWanTED/obj/Debug/netcoreapp2.1/MostWanTED.RazorAssemblyInfo.cache
+/Users/Flo/Desktop/MostWanTED/MostWanTED/obj/Debug/netcoreapp2.1/MostWanTED.RazorAssemblyInfo.cs
+/Users/Flo/Desktop/MostWanTED/MostWanTED/obj/Debug/netcoreapp2.1/MostWanTED.AssemblyInfoInputs.cache
+/Users/Flo/Desktop/MostWanTED/MostWanTED/obj/Debug/netcoreapp2.1/MostWanTED.AssemblyInfo.cs
+/Users/Flo/Desktop/MostWanTED/MostWanTED/obj/Debug/netcoreapp2.1/MostWanTED.RazorTargetAssemblyInfo.cache
+/Users/Flo/Desktop/MostWanTED/MostWanTED/obj/Debug/netcoreapp2.1/MostWanTED.dll
+/Users/Flo/Desktop/MostWanTED/MostWanTED/obj/Debug/netcoreapp2.1/MostWanTED.pdb

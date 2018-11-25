@@ -1,0 +1,14 @@
+/Users/Flo/Desktop/MostWanTED/DataHandler/bin/Debug/netcoreapp2.1/DataHandler.deps.json
+/Users/Flo/Desktop/MostWanTED/DataHandler/bin/Debug/netcoreapp2.1/DataHandler.runtimeconfig.json
+/Users/Flo/Desktop/MostWanTED/DataHandler/bin/Debug/netcoreapp2.1/DataHandler.runtimeconfig.dev.json
+/Users/Flo/Desktop/MostWanTED/DataHandler/bin/Debug/netcoreapp2.1/DataHandler.dll
+/Users/Flo/Desktop/MostWanTED/DataHandler/bin/Debug/netcoreapp2.1/DataHandler.pdb
+/Users/Flo/Desktop/MostWanTED/DataHandler/obj/Debug/netcoreapp2.1/DataHandler.csprojAssemblyReference.cache
+/Users/Flo/Desktop/MostWanTED/DataHandler/obj/Debug/netcoreapp2.1/DataHandler.csproj.CoreCompileInputs.cache
+/Users/Flo/Desktop/MostWanTED/DataHandler/obj/Debug/netcoreapp2.1/DataHandler.RazorAssemblyInfo.cache
+/Users/Flo/Desktop/MostWanTED/DataHandler/obj/Debug/netcoreapp2.1/DataHandler.RazorAssemblyInfo.cs
+/Users/Flo/Desktop/MostWanTED/DataHandler/obj/Debug/netcoreapp2.1/DataHandler.AssemblyInfoInputs.cache
+/Users/Flo/Desktop/MostWanTED/DataHandler/obj/Debug/netcoreapp2.1/DataHandler.AssemblyInfo.cs
+/Users/Flo/Desktop/MostWanTED/DataHandler/obj/Debug/netcoreapp2.1/DataHandler.RazorTargetAssemblyInfo.cache
+/Users/Flo/Desktop/MostWanTED/DataHandler/obj/Debug/netcoreapp2.1/DataHandler.dll
+/Users/Flo/Desktop/MostWanTED/DataHandler/obj/Debug/netcoreapp2.1/DataHandler.pdb
