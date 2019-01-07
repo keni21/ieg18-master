@@ -70,6 +70,7 @@ namespace DataHandler
 
         private void _createConClients(IServiceCollection iServices, int conNumber)
         {
+
             // String conString = "http://easycreditcardservice" + conNumber + ".azurewebsites.net/";
             String conString = "http://127.0.0.1:" + conNumber + "/";
 

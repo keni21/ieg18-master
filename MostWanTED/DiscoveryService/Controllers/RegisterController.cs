@@ -44,13 +44,12 @@ namespace DiscoveryService.Controllers
         {
             var client = new ConsulClient(); // uses default host:port which is localhost:8500
             AgentServiceCheck httpCheck = _httpCheck((String)NewService["uri"], (String)NewService["name"]);
-            AgentServiceCheck tcpCheck = _TCPCheck((String)NewService["uri"]);
             var ServiceReg = new AgentServiceRegistration()
             {
-                Checks = new[] { tcpCheck, httpCheck },
+                Checks = new[] { httpCheck },
                 Address = (String)NewService["address"],
                 ID = (String)NewService["id"],
-                Name = (String)NewService["name"],
+                Name = (String)NewService["name"] + ":" + NewService["port"],
                 Port = (int)NewService["port"]
             };
 
@@ -63,21 +62,9 @@ namespace DiscoveryService.Controllers
             {
                 DeregisterCriticalServiceAfter = TimeSpan.FromMinutes(1),
                 Interval = TimeSpan.FromSeconds(30),
-                HTTP = uri + "/"+type+"/status"
+                HTTP = "http://" + uri + "/api/"+type+"/status"
             };
             return httpCheck;
         }
-
-        private AgentServiceCheck _TCPCheck(String uri)
-        {
-            var tcpCheck = new AgentServiceCheck()
-            {
-                DeregisterCriticalServiceAfter = TimeSpan.FromMinutes(1),
-                Interval = TimeSpan.FromSeconds(30),
-                TCP = uri
-            };
-            return tcpCheck;
-        }
-
     }
 }

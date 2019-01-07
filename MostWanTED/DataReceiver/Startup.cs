@@ -34,8 +34,8 @@ namespace DataReceiver
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            _createConClients(services, 5002);
-            _createConClients(services, 5022);
+            _createConClients(services, "02");
+            _createConClients(services, "22");
             _registerService();
         }
 
@@ -44,10 +44,10 @@ namespace DataReceiver
             throw new NotImplementedException();
         }
 
-        private void _createConClients(IServiceCollection iServices, int conNumber)
+        private void _createConClients(IServiceCollection iServices, String conNumber)
         {
             // String conString = "http://easycreditcardservice" + conNumber + ".azurewebsites.net/";
-            String conString = "http://127.0.0.1:" + conNumber + "/";
+            String conString = "http://"+_Url(conNumber) + "/";
 
             iServices.AddHttpClient(conString, client =>
             {
@@ -67,6 +67,16 @@ namespace DataReceiver
         private IAsyncPolicy<HttpResponseMessage> breakCircuitDo()
         {
             return HttpPolicyExtensions.HandleTransientHttpError().CircuitBreakerAsync(2, TimeSpan.FromSeconds(69));
+        }
+
+        private String _Url(String conNumber)
+        {
+            HttpClient ConsuleClient = new HttpClient();
+            ConsuleClient.BaseAddress = new Uri("http://127.0.0.1");
+            ConsuleClient.DefaultRequestHeaders.Accept.Clear();
+            HttpResponseMessage ConsuleResponse = ConsuleClient.GetAsync("http://127.0.0.1:5010/api/info/handler50"+ conNumber).Result;
+            var test = ConsuleResponse.Content.ReadAsStringAsync().Result;
+            return ConsuleResponse.Content.ReadAsStringAsync().Result;
         }
 
         private async void _registerService() {

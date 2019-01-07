@@ -12,3 +12,17 @@
 /Users/Flo/Desktop/MostWanTED/DataReceiver/obj/Debug/netcoreapp2.1/DataReceiver.dll
 /Users/Flo/Desktop/MostWanTED/DataReceiver/obj/Debug/netcoreapp2.1/DataReceiver.pdb
 /Users/Flo/Desktop/MostWanTED/DataReceiver/obj/Debug/netcoreapp2.1/DataReceiver.csprojAssemblyReference.cache
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/bin/Debug/netcoreapp2.1/DataReceiver.deps.json
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/bin/Debug/netcoreapp2.1/DataReceiver.runtimeconfig.json
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/bin/Debug/netcoreapp2.1/DataReceiver.runtimeconfig.dev.json
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/bin/Debug/netcoreapp2.1/DataReceiver.dll
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/bin/Debug/netcoreapp2.1/DataReceiver.pdb
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/obj/Debug/netcoreapp2.1/DataReceiver.csprojAssemblyReference.cache
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/obj/Debug/netcoreapp2.1/DataReceiver.csproj.CoreCompileInputs.cache
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/obj/Debug/netcoreapp2.1/DataReceiver.RazorAssemblyInfo.cache
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/obj/Debug/netcoreapp2.1/DataReceiver.RazorAssemblyInfo.cs
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/obj/Debug/netcoreapp2.1/DataReceiver.AssemblyInfoInputs.cache
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/obj/Debug/netcoreapp2.1/DataReceiver.AssemblyInfo.cs
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/obj/Debug/netcoreapp2.1/DataReceiver.RazorTargetAssemblyInfo.cache
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/obj/Debug/netcoreapp2.1/DataReceiver.dll
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataReceiver/obj/Debug/netcoreapp2.1/DataReceiver.pdb

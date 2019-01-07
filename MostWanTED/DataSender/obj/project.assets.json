@@ -11653,11 +11653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Flo/Desktop/MostWanTED/DataSender/DataSender.csproj",
+      "projectUniqueName": "/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/DataSender.csproj",
       "projectName": "DataSender",
-      "projectPath": "/Users/Flo/Desktop/MostWanTED/DataSender/DataSender.csproj",
+      "projectPath": "/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/DataSender.csproj",
       "packagesPath": "/Users/Flo/.nuget/packages/",
-      "outputPath": "/Users/Flo/Desktop/MostWanTED/DataSender/obj",
+      "outputPath": "/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -11686,19 +11686,19 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
+          "Consul": {
+            "target": "Package",
+            "version": "[0.7.2.6, )"
+          },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1.1"
-          },
-          "Consul": {
-            "target": "Package",
-            "version": "0.7.2.6"
+            "version": "[2.1.1, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1",
+            "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },

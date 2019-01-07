@@ -56,9 +56,20 @@ namespace DataHandler.Controllers
             results.Add((String)surveyValues["type2"], percent2);
             results.Add((String)surveyValues["type3"], percent3);
             results.Add((String)surveyValues["type4"], percent4);
-            var client = _clientFactory.CreateClient("http://127.0.0.1:5003/");
+            var client = _createClient();
             HttpResponseMessage response = await client.PostAsJsonAsync("api/sender", results);
             return response.Content.ReadAsAsync<JObject>().Result;
+        }
+
+        private HttpClient _createClient()
+        {
+            HttpClient ConsuleClient = new HttpClient();
+            ConsuleClient.BaseAddress = new Uri("http://127.0.0.1");
+            ConsuleClient.DefaultRequestHeaders.Accept.Clear();
+            HttpResponseMessage ConsuleResponse = ConsuleClient.GetAsync("http://127.0.0.1:5010/api/info/sender5003").Result;
+            var test = ConsuleResponse.Content.ReadAsStringAsync().Result;
+            HttpClient client = _clientFactory.CreateClient("http://" + ConsuleResponse.Content.ReadAsStringAsync().Result + "/");
+            return client;
         }
 
 

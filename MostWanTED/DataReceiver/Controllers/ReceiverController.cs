@@ -49,8 +49,7 @@ namespace DataReceiver.Controllers
         public async Task<JObject> ReceiveSurveyValues([FromBody] ReceiverModel surveyValues)
         {
             JObject handlerResponse = null;
-
-            var client = _clientFactory.CreateClient("http://127.0.0.1:5002/");
+            HttpClient client = _createClient("02");
 
             HttpResponseMessage response = new HttpResponseMessage();
 
@@ -71,9 +70,18 @@ namespace DataReceiver.Controllers
 
         private async Task<HttpResponseMessage> failedCircuit(BrokenCircuitException exception, ReceiverModel surveyValues)
         {
-            var client = _clientFactory.CreateClient("http://127.0.0.1:5022/");
+            var client = _createClient("22");
             HttpResponseMessage response = await client.PostAsJsonAsync("api/handler", surveyValues);
             return response;
+        }
+
+        private  HttpClient _createClient(String conNumber) {
+            HttpClient ConsuleClient = new HttpClient();
+            ConsuleClient.BaseAddress = new Uri("http://127.0.0.1");
+            ConsuleClient.DefaultRequestHeaders.Accept.Clear();
+            HttpResponseMessage ConsuleResponse =  ConsuleClient.GetAsync("http://127.0.0.1:5010/api/info/handler50"+ conNumber).Result;
+            HttpClient client = _clientFactory.CreateClient("http://" + ConsuleResponse.Content.ReadAsStringAsync().Result + "/");
+            return client;
         }
     }
 }

@@ -12,3 +12,17 @@
 /Users/Flo/Desktop/MostWanTED/DataSender/obj/Debug/netcoreapp2.1/DataSender.RazorTargetAssemblyInfo.cache
 /Users/Flo/Desktop/MostWanTED/DataSender/obj/Debug/netcoreapp2.1/DataSender.dll
 /Users/Flo/Desktop/MostWanTED/DataSender/obj/Debug/netcoreapp2.1/DataSender.pdb
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/bin/Debug/netcoreapp2.1/DataSender.deps.json
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/bin/Debug/netcoreapp2.1/DataSender.runtimeconfig.json
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/bin/Debug/netcoreapp2.1/DataSender.runtimeconfig.dev.json
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/bin/Debug/netcoreapp2.1/DataSender.dll
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/bin/Debug/netcoreapp2.1/DataSender.pdb
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/obj/Debug/netcoreapp2.1/DataSender.csprojAssemblyReference.cache
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/obj/Debug/netcoreapp2.1/DataSender.csproj.CoreCompileInputs.cache
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/obj/Debug/netcoreapp2.1/DataSender.RazorAssemblyInfo.cache
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/obj/Debug/netcoreapp2.1/DataSender.RazorAssemblyInfo.cs
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/obj/Debug/netcoreapp2.1/DataSender.AssemblyInfoInputs.cache
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/obj/Debug/netcoreapp2.1/DataSender.AssemblyInfo.cs
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/obj/Debug/netcoreapp2.1/DataSender.RazorTargetAssemblyInfo.cache
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/obj/Debug/netcoreapp2.1/DataSender.dll
+/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/DataSender/obj/Debug/netcoreapp2.1/DataSender.pdb

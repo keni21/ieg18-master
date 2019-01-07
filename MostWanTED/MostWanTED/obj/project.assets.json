@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Flo/Desktop/MostWanTED/MostWanTED/MostWanTED.csproj",
+      "projectUniqueName": "/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/MostWanTED/MostWanTED.csproj",
       "projectName": "MostWanTED",
-      "projectPath": "/Users/Flo/Desktop/MostWanTED/MostWanTED/MostWanTED.csproj",
+      "projectPath": "/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/MostWanTED/MostWanTED.csproj",
       "packagesPath": "/Users/Flo/.nuget/packages/",
-      "outputPath": "/Users/Flo/Desktop/MostWanTED/MostWanTED/obj",
+      "outputPath": "/Users/Flo/Desktop/IEGProjekt/ieg18-master/MostWanTED/MostWanTED/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -11542,12 +11542,12 @@
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1.1"
+            "version": "[2.1.1, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1",
+            "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },

@@ -30,6 +30,7 @@ namespace DataSender
         public void ConfigureServices(IServiceCollection services)
         {
             _registerService();
+            _createConClients(services, 5007);
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
@@ -64,6 +65,20 @@ namespace DataSender
 
             app.UseHttpsRedirection();
             app.UseMvc();
+        }
+
+        private void _createConClients(IServiceCollection iServices, int conNumber)
+        {
+            // String conString = "http://easycreditcardservice" + conNumber + ".azurewebsites.net/";
+            String conString = "http://127.0.0.1:" + conNumber + "/";
+
+
+            iServices.AddHttpClient(conString, client =>
+            {
+                client.BaseAddress = new Uri(conString);
+                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/xml"));
+            });
         }
     }
 }
